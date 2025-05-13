@@ -11,7 +11,7 @@ Explore the dataset to understand how factors like experience, location, and wor
 - Power BI
 - Power Query
 - GitHub
-- 
+  
 ## Overview
 This Power BI dashboard visualizes salaries in data-related jobs based on experience levels, work locations, and company regions. The dataset includes data on job roles, salaries, locations, and work modes, offering insights into how these factors influence earnings.
 
