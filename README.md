@@ -4,7 +4,7 @@ Explore the dataset to understand how factors like experience, location, and wor
 
 ## Key Questions
 1. Which roles have the highest salaries?
-2. How do salaries vary across countries and company sizes?
+2. How do salaries vary across countries and Experience Levels?
 3. Does remote work influence average salaries?
 
 ## Tools
